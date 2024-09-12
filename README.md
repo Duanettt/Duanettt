@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Duanett</h1>
+<h1 bold align="center">I'm Duanett</h1>
 <h3 align="center">A passionate, aspiring Software Developer from the UK</h3>
 
 - 🔭 Current ongoing projects:  **Netpix, Netti Studios and NetFit**
