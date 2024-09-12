@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Duanett</h1>
 <h3 align="center">A passionate, aspiring Software Developer from the UK</h3>
 
-- 🔭 I’m currently working on **Netpix, Netti Studios**
+- 🔭 Current ongoing projects:  **Netpix, Netti Studios and NetFit**
 
-- 🌱 I’m currently learning **C++, Graphics Programming, JavaScript**
+- 🌱 I’m currently learning **C++, Graphics Programming, App Development**
 
-- 💬 Ask me about **C++, Graphics Programming, Web development**
+- 💬 Ask me about **C++, Graphics Programming, Web and App Development**
 
 - 📫 How to reach me **dnettey28@gmail.com**
 
