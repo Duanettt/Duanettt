@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **dnettey28@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/4yc5lgdh7n5g7hpubmwij/My-Tech-Resume.pdf?rlkey=lf9qoloasqjiaos4t76wgqth4&st=tarvn7ld&dl=0](https://www.dropbox.com/scl/fi/4yc5lgdh7n5g7hpubmwij/My-Tech-Resume.pdf?rlkey=lf9qoloasqjiaos4t76wgqth4&st=tarvn7ld&dl=0)
+- 📄 Know about my experiences [[https://www.dropbox.com/scl/fi/4yc5lgdh7n5g7hpubmwij/My-Tech-Resume.pdf?rlkey=lf9qoloasqjiaos4t76wgqth4&st=tarvn7ld&dl=0]([https://www.dropbox.com/scl/fi/4hxhcbz7qczwxsgrfq5u4/New-Tech-CV-Mobile.pdf?rlkey=owy8vqx9235xzakza0x6zqbvf&st=og0c3fzp&dl=0](https://www.dropbox.com/scl/fi/4hxhcbz7qczwxsgrfq5u4/New-Tech-CV-Mobile.pdf?rlkey=owy8vqx9235xzakza0x6zqbvf&st=og0c3fzp&dl=0))](https://www.dropbox.com/scl/fi/4yc5lgdh7n5g7hpubmwij/My-Tech-Resume.pdf?rlkey=lf9qoloasqjiaos4t76wgqth4&st=tarvn7ld&dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
