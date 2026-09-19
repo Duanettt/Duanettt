@@ -2,15 +2,15 @@
 <h3 align="center">A passionate, aspiring Software Developer from the UK</h3>
 
 
-- 🔭 Current ongoing projects:  **Netpix, Netti Studios and NetFit**
+- 🔭 Currently building: **FroMe (live AI app), NetFit, and mobile side-projects**
 
-- 🌱 I’m currently learning **C++, Graphics Programming, App Development**
+- 🌱 I'm currently learning **Swift, SwiftUI, and AI automation**
 
-- 💬 Ask me about **C++, Graphics Programming, Web and App Development**
+- 💬 Ask me about **Android (Kotlin/Compose), Flutter, AI integration, and shipping apps end to end**
 
-- 📫 How to reach me **dnettey28@gmail.com**
+- 📫 How to reach me: **dnettey28@gmail.com**
 
-- 📄 Know about my experiences [[https://www.dropbox.com/scl/fi/4yc5lgdh7n5g7hpubmwij/My-Tech-Resume.pdf?rlkey=lf9qoloasqjiaos4t76wgqth4&st=tarvn7ld&dl=0]([https://www.dropbox.com/scl/fi/4hxhcbz7qczwxsgrfq5u4/New-Tech-CV-Mobile.pdf?rlkey=owy8vqx9235xzakza0x6zqbvf&st=og0c3fzp&dl=0](https://www.dropbox.com/scl/fi/4hxhcbz7qczwxsgrfq5u4/New-Tech-CV-Mobile.pdf?rlkey=owy8vqx9235xzakza0x6zqbvf&st=og0c3fzp&dl=0))](https://www.dropbox.com/scl/fi/4yc5lgdh7n5g7hpubmwij/My-Tech-Resume.pdf?rlkey=lf9qoloasqjiaos4t76wgqth4&st=tarvn7ld&dl=0)
+- 📄 Know about my experiences: [my CV](https://www.dropbox.com/scl/fi/4hxhcbz7qczwxsgrfq5u4/New-Tech-CV-Mobile.pdf?rlkey=owy8vqx9235xzakza0x6zqbvf&st=og0c3fzp&dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
